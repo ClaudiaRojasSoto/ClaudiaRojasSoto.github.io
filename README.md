@@ -96,7 +96,7 @@ This project not only showcases my skills in mobile design using Flexbox, Linter
 ### Setup
 Clone this repository to your local machine:
 
-git clone https://github.com/ClaudiaRojasSoto/portfolio_1
+git clone https://github.com/ClaudiaRojasSoto/ClaudiaRojasSoto.github.io
 
 
 
